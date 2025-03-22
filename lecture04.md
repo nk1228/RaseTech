@@ -30,7 +30,3 @@
 ## EC2からRDSへの接続
 
 ![EC2~RDS](EC2~RDS.image8.png)
-
-
-
-
