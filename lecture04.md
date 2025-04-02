@@ -21,6 +21,7 @@
 * 詳細
 
 ![RDS](RDS.image5.png)
+![subnet](subnet.image9.png)
 
 * セキュリティ（インバウンド・アウトバウンド）
 
