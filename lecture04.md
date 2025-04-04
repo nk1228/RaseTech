@@ -29,12 +29,4 @@
 
 ## EC2からRDSへの接続
 
-<<<<<<< HEAD
 ![EC2-RDS](EC2-RDS.image8.png)
-=======
-![EC2~RDS](EC2~RDS.image8.png)
-
-
-
-
->>>>>>> eac37f2a2e4d0d7683942d2842431df63a2eeb50
