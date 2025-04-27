@@ -1,12 +1,13 @@
 # 第5回課題
 
+
 ## 組み込みサーバー（puma）のみでのRailsアプリケーション動作確認
 * pumaの状態
 ![](image1.png)
 * webブラウザでの確認
 ![](image2.png)
 
-## 組み込みサーバーとUnix Socketを使ったRailsアプリの動作確認
+## 組み込みサーバ-(puma)とUnix Socketを使ったRailsアプリの動作確認
 * pumaの状態
 ![](image3.png)
 * curlでの確認
