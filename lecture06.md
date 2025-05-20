@@ -37,16 +37,3 @@ https://calculator.aws/#/estimate?id=3ae0c1840420e9e5b7f842182cae6f4473dfac01
 * 使ってないVPCやEC2インスタンスは削除したり、Elastic IPを解放するなど対策していかないといけないと思った。
 ![](image07.jpg)
 ![](image08.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
