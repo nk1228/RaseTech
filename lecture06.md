@@ -30,7 +30,7 @@
 ![](image06.jpg)
 
 ## AWS利用料の見積もり作成
-https://calculator.aws/#/estimate?id=3ae0c1840420e9e5b7f842182cae6f4473dfac01
+https://calculator.aws/#/estimate?id=bf6a8db1f54286ad43874e0cd319aa09e4eb23a5
 
 ### 今月までのAWSの利用料
 * 合計コスト $106.01
